@@ -24,77 +24,44 @@
 <h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About</h2>
 
 <img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+### Software Engineer | React & Next.js Specialist | Front-End Enthusiast 🚀  
 
-- 👨‍🎓 I’m a `Senior Computer Science Student`.
-  
-- 🚀 Passionate about `Web Development`.
+I am an experienced **Software Engineer** with a focus on **React.js**, **Next.js**, and **JavaScript/TypeScript** technologies. With a passion for building responsive and high-performance web and mobile applications, I deliver solutions that not only meet but exceed user expectations. My expertise extends across front-end development, CMS design, and crafting admin panels to streamline business operations, leveraging modern frameworks and clean architecture principles.  
 
-- 💡 Interested in contributing to `Open-Source Projects`.
+#### Core Competencies:  
+- **Next.js Development**: Proficient in building dynamic, SEO-optimized web applications that are fast, scalable, and user-centric.  
+- **React.js Mastery**: Extensive experience in crafting robust, reusable components and intuitive user interfaces using React and its ecosystem.  
+- **JavaScript/TypeScript Expertise**: Strong ability to write clean, maintainable, and efficient code, enabling seamless application functionality.  
+- **Responsive Design**: Skilled in implementing responsive designs that ensure excellent user experiences across devices.  
+- **CMS & Admin Panel Development**: Adept at creating powerful tools for managing business workflows and customer interactions effectively.  
 
-- 💬 Ask me about `Software Engineering`.
-  
-- 🔍 Seeking an `Internship` or a `Part-Time Job`.
+#### Key Skills:  
+- Redux for State Management  
+- RESTful API Integration  
+- Agile Methodology & Team Collaboration  
+- Git Version Control  
+- Testing (Jest, React Testing Library)  
+- Debugging & Problem Solving  
 
-- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1PW1jGpB-F0DfGeJBBl5swnDYAQyWZa05/view?usp=sharing)**.
+#### Projects & Achievements:  
+- **Skyna, Migakher, and Offto**: Delivered scalable, user-friendly solutions across diverse business models, addressing unique challenges with tailored applications.  
+- **CMS and Admin Panels**: Built robust systems for streamlining business operations, with a focus on efficiency, performance, and usability.  
+
+#### Value Proposition:  
+- **Collaborative Leadership**: Thrives in Agile team environments, driving productivity and fostering innovation.  
+- **Continuous Learning**: Committed to staying ahead in the rapidly evolving tech landscape through self-learning and exploration of emerging technologies.  
+- **Open Source Contribution**: Actively participates in open-source projects, embracing community-driven development and innovation.  
+
+With a meticulous approach to design, testing, and implementation, I ensure every project achieves excellence in performance and user experience. Let’s collaborate to build impactful, future-ready solutions! 💻✨
+
+
+- 📄 Know more about my experiences in my **[Resume](https://www.linkedin.com/in/aahmed-black-wolf/overlay/1730465347829/single-media-viewer/?profileId=ACoAAD34tSwBZEA6ZHNRb8ZGijVdBULSeHGUffY)**.
 
 - ✨ Enjoy my GitHub profile.
 
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
-
-<h2><a id="internship-experience"></a>💼 Internship Experience</h2>
-
-| 🏢 Company | 💼 Role | ⏰ Duration |
-| --- | --- | --- |
-| [Orange Digital Center](https://www.orangedigitalcenters.com/country/EG/home) | Software Engineer Intern | Sep 2024 - Oct 2024 |
-| [Arab African International Bank](https://www.aaib.com/) | Backend Developer Intern | Jul 2024 - Aug 2024 | 
-| [Nokia](https://www.nokia.com/) | Software Engineer Intern | Aug 2023 - Oct 2023 |
-| [Banque Misr](https://www.banquemisr.com/) | Frontend Developer Intern | Jul 2023 - Aug 2023 |
-
-
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
-
-<h2><a id="training-experience"></a>📚 Training</h2>
-
-| 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
-| --- | --- | --- | --- |
-| [Information Technology Institute](https://iti.gov.eg/home) | React Trainee | Sep 2024 | [Certificate](certificates/training/iti-react.pdf) |
-| [Information Technology Institute](https://iti.gov.eg/home) | Web Development Trainee | Aug 2024 - Sep 2024 | [Certificate](certificates/training/iti-web-development.pdf) |
-| [Information Technology Institute](https://iti.gov.eg/home) | Full Stack Web Development using Python Trainee | Jul 2024 - Aug 2024 | [Certificate](certificates/training/iti-python.pdf) |
-| [Coach Academy](https://coachacademy.club/) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Certificate](certificates/training/coach-academy.pdf) |
-
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
-
-<a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
-&nbsp;
-<a href="https://fb.com/profile.php?id=100004270350132" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="35" /></a>
-&nbsp;
-<a href="https://wa.me/0201110102554" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
-&nbsp;
-<a href="https://t.me/nassarrrr" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
-&nbsp;
-<a href="https://instagram.com/ahmed_nassar__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="35" /></a>
-&nbsp;
-<a href="mailto:a.moh.nassar00@gmail.com"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" alt="Gmail" height="40" width="35" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/a_moh_nassar00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HacherRank" height="40" width="35" /></a>
-&nbsp;
-<a href="https://www.leetcode.com/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="40" width="35" /></a>
-
-
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
 
 <h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
 
