@@ -70,35 +70,7 @@
 | [Coach Academy](https://coachacademy.club/) | Competitive Programming Trainee | Nov 2023 - April 2024 | [Certificate](certificates/training/coach-academy.pdf) |
 
 
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-
-
-<h2><a id="volunteering-experience"></a>🤝 Volunteering</h2>
-
-| 🏢 Student Clubs | 💼 Role | 📄 Certificates |
-| --- | --- | --- |
-| [GDSC Cairo University](https://www.linkedin.com/company/dsccairo/) | Software Developer Member | [Certificate](certificates/volunteering/gdsc-cu.pdf) |
-| [GDSC Zagazig University](https://www.linkedin.com/company/google-dsc-zagazig/) | C++ Developer Member | [Certificate](certificates/volunteering/gdsc-zag.pdf) |
-| [GDSC Al-Azhar University](https://www.linkedin.com/company/gdgcalazhar/) | C++ Developer Member | [Certificate](certificates/volunteering/gdsc-azhar.png) |
-| [ACES](https://www.linkedin.com/company/acesegypt/) | IT Member | [Certificate](certificates/volunteering/aces.pdf) |
-| [Open Source Community](https://www.linkedin.com/company/osc---open-source-community/) | Web Developer Member | [Acceptance](certificates/others/acceptance-osc.jpeg) |
-| [SemiColon](https://www.linkedin.com/company/semicolon.org/) | Data Structure & Algorithms Head | [Core Team](certificates/others/core-team-semicolon.jpeg) |
-| [Enactus Modern Academy](https://www.linkedin.com/company/enactus-modern-academy/) | IT Member | [Acceptance](certificates/others/acceptance-enactus.jpeg) |
-| [GDSC Modern Academy](https://www.linkedin.com/company/gdg-campus-modern-academy-for-computer-science/) | Event Manager Member | [Certificate](certificates/volunteering/gdsc-ma.jpg) |
-| [Techne](https://www.linkedin.com/company/techne.me/) | Event Organizer | [Certificate 2023](certificates/volunteering/techne'23.pdf) \| [Certificate 2024](certificates/volunteering/techne'24.pdf) |
-| [Egypt Career Summit](https://www.linkedin.com/company/egypt-career-summit/) | Event Organizer | [Certificate](certificates/volunteering/ecs.png) |
-| [iCareer](https://www.linkedin.com/company/icareereg/) | Event Organizer | [Core Team](certificates/others/core-team-icareer.jpeg) |
-| [Startups Without Borders](https://www.linkedin.com/company/startups-without-borders-eg/) | Event Organizer | [Acceptance](certificates/others/acceptance-swb.jpeg) |
-| [MSP Tech Club Al-Azhar University](https://www.linkedin.com/company/msp-tech-club-al-azhar-university/) | Frontend Developer Member | [Acceptance](certificates/others/acceptance-msp.jpeg) |
-| [IEEENU CIS](https://www.linkedin.com/company/ieeenu-cis/) | AI Engineer Member | [Acceptance](certificates/others/acceptance-nu.jpeg) |
-| [IEEE ASUSB](https://www.linkedin.com/company/ieee-asusb/) | Fundraiser Member | [Acceptance](certificates/others/acceptance-asu.jpeg) |
-
-
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
 
 <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
 
