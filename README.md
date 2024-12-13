@@ -137,11 +137,11 @@
 <h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
 <div align="center">
 	
-<img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedNassar7&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="0xabdulkhalid"/>
+<img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=aahmed-black-wolf&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="0xabdulkhalid"/>
 
-<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=AhmedNassar7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
+<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=aahmed-black-wolf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
 
-<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=ahmednassar7&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=aahmed-black-wolf&theme=highcontrast" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -153,9 +153,9 @@
 <h2><a id="snake"></a> 🐍 Snake Eating My Contributions</h2>  
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmednassar7/ahmednassar7/output/github-contribution-grid-snake.svg">
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aahmed-black-wolf/ahmednassar7/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aahmed-black-wolf/ahmednassar7/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aahmed-black-wolf/ahmednassar7/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
 
@@ -163,24 +163,19 @@
 
 <h2><a id="graph"></a>📈 Contributions Graph</h2>  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedNassar7&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aahmed-black-wolf&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<h2>:book: Guest Book</h2>
-
-- Leave a message <a href="https://github.com/ahmednassar7/ahmednassar7/issues/new?template=guestbook-entry.md">Here</a>
 
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<!-- - Ask anything at <a href="https://github.com/ahmednassar7/ahmednassar7/discussions/new/choose">Discussions</a> -->
 
 
-<!--
-```
+
+shell```
 ███████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ███████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ██████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
