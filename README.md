@@ -63,7 +63,7 @@ I am an experienced **Software Engineer** with a focus on **React.js**, **Next.j
 - **Continuous Learning**: Committed to staying ahead in the rapidly evolving tech landscape through self-learning and exploration of emerging technologies.  
 - **Open Source Contribution**: Actively participates in open-source projects, embracing community-driven development and innovation.  
 
-With a meticulous approach to design, testing, and implementation, I ensure every project achieves excellence in performance and user experience. Let’s collaborate to build impactful, future-ready solutions! 💻✨
+💻 With a meticulous approach to design, testing, and implementation, I ensure every project achieves excellence in performance and user experience. Let’s collaborate to build impactful, future-ready solutions! 
 
 
 - 📄 Know more about my experiences in my **[Resume](https://www.linkedin.com/in/aahmed-black-wolf/overlay/1730465347829/single-media-viewer/?profileId=ACoAAD34tSwBZEA6ZHNRb8ZGijVdBULSeHGUffY)**.
