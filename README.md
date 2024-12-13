@@ -25,7 +25,7 @@
 
 <img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-### Software Engineer | React & Next.js Specialist | Front-End Enthusiast 🚀  
+🚀 ### Software Engineer | React & Next.js Specialist | Front-End Enthusiast
 
 I am an experienced **Software Engineer** with a focus on **React.js**, **Next.js**, and **JavaScript/TypeScript** technologies. With a passion for building responsive and high-performance web and mobile applications, I deliver solutions that not only meet but exceed user expectations. My expertise extends across front-end development, CMS design, and crafting admin panels to streamline business operations, leveraging modern frameworks and clean architecture principles.  
 
