@@ -23,7 +23,7 @@
 
 <h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About</h2>
 
-<img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 
 🚀 **Software Engineer | React & Next.js Specialist | Front-End Enthusiast**
 
@@ -42,7 +42,9 @@ I am an experienced **Software Engineer** with a focus on **React.js**, **Next.j
 - Agile Methodology & Team Collaboration  
 - Git Version Control  
 - Testing (Jest, React Testing Library)  
-- Debugging & Problem Solving  
+- Debugging & Problem Solving
+- 
+<img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 #### Projects & Achievements:  
 - **Skyna, Migakher, and Offto**: Delivered scalable, user-friendly solutions across diverse business models, addressing unique challenges with tailored applications.  
@@ -74,18 +76,18 @@ With a meticulous approach to design, testing, and implementation, I ensure ever
 
 
 
-<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
-<div align="center">	
-   <img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=aahmed-black-wolf&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="0xabdulkhalid"/>
-   <img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=aahmed-black-wolf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
-</div>
+
 
 
 <h2><a id="graph"></a>📈 Contributions Graph</h2>  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aahmed-black-wolf&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
+
+<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
+<div align="center">	
+   <img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=aahmed-black-wolf&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="0xabdulkhalid"/>
+   <img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=aahmed-black-wolf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
