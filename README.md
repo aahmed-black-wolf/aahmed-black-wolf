@@ -36,6 +36,9 @@ I am an experienced **Software Engineer** with a focus on **React.js**, **Next.j
 - **Responsive Design**: Skilled in implementing responsive designs that ensure excellent user experiences across devices.  
 - **CMS & Admin Panel Development**: Adept at creating powerful tools for managing business workflows and customer interactions effectively.  
 
+
+<img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 #### Key Skills:  
 - Redux for State Management  
 - RESTful API Integration  
@@ -43,8 +46,8 @@ I am an experienced **Software Engineer** with a focus on **React.js**, **Next.j
 - Git Version Control  
 - Testing (Jest, React Testing Library)  
 - Debugging & Problem Solving
-- 
-<img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+
 
 #### Projects & Achievements:  
 - **Skyna, Migakher, and Offto**: Delivered scalable, user-friendly solutions across diverse business models, addressing unique challenges with tailored applications.  
