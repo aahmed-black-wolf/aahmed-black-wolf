@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Abdelrahman Ahmed 👑</h1>
-<h2 align="center"> 🚀 Senior Software Engineer</h2>
+<p align="center">Hi 👋, I'm Abdelrahman Ahmed 👑</p>
+<p align="center"> 🚀 Senior Software Engineer</p>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 <br>
 
