@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-<h1 id="top" align="center">Hi, I'm Abdelrahman Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1> <a href="https://www.linkedin.com/in/aahmed-black-wolf/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> 
-
+<h1 id="top" align="center">Hi, I'm Abdelrahman Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&weight=900&size=28&color=0d8eceF&center=true&vCenter=true&width=600&height=100&lines=Senior+Software+Engineer+💻;👨🏻‍🎓" alt="Typing SVG" /> 
