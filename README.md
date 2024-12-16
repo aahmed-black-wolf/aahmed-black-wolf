@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=aahmed-black-wolf&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
   <img src="https://img.shields.io/github/followers/aahmed-black-wolf?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
   <img src="https://img.shields.io/github/stars/aahmed-black-wolf?color=0e75b6&style=flat-square" alt="Stars" height="21" />
-  <img src="https://img.shields.io/github/forks/AhmedNassar7/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
+  <img src="https://img.shields.io/github/forks/aahmed-black-wolf/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aahmed-black-wolf&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="aahmed-black-wolf" /></a> </p>
