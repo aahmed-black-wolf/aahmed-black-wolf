@@ -4,9 +4,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira&weight=900&size=28&color=0d8eceF&center=true&vCenter=true&width=600&height=100&lines=Senior+Software+Engineer+👨🏻‍🎓" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=0D8ECE&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+👨🏻‍💻;React+%7C+Next.js+%7C+TypeScript" 
+    alt="Typing SVG" 
+  />
 </p>
-
 ---
 
 ## 🛠️ Technical Skills
